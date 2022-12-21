@@ -33,7 +33,8 @@ public class SelectApp {
         } catch (SQLException ex) {
             System.out.println(ex.getMessage());
         }
-             
     }
+    
+    
 
 }
